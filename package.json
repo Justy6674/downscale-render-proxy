@@ -1,0 +1,26 @@
+{
+  "name": "downscale-render-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "node-fetch": "^2.7.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justy6674/downscale-render-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justy6674/downscale-render-proxy/issues"
+  },
+  "homepage": "https://github.com/Justy6674/downscale-render-proxy#readme"
+}

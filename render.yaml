@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: downscale-render-proxy
+    env: node
+    buildCommand: npm install
+    startCommand: node index.js
